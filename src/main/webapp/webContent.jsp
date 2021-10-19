@@ -17,5 +17,8 @@
 	<h4>http주소 활용 : 파일을 실행시킨 후 그 주소값을 받아와서 사용한다</h4>
 	<a href="http://localhost:8000/jsp01/test1/test1.jsp">test1 이동</a><br>
 	<a href="http://localhost:8000/jsp01/test1/test2/test2.jsp">test2 이동</a>
+	<hr>
+	<h4>quiz02</h4>
+	<a href="/jsp01/quiz02_form.jsp">quiz02_form.jsp 이동</a>
 </body>
 </html>
